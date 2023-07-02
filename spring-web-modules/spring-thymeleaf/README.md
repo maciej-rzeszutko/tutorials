@@ -9,6 +9,8 @@ This module contains articles about Spring with Thymeleaf
 - [Spring MVC + Thymeleaf 3.0: New Features](https://www.baeldung.com/spring-thymeleaf-3)
 - [How to Work with Dates in Thymeleaf](https://www.baeldung.com/dates-in-thymeleaf)
 - [Working with Fragments in Thymeleaf](https://www.baeldung.com/spring-thymeleaf-fragments)
+- [JavaScript Function Call with Thymeleaf](https://www.baeldung.com/thymeleaf-js-function-call)
+- [Add a Checked Attribute to Input Conditionally in Thymeleaf](https://www.baeldung.com/thymeleaf-conditional-checked-attribute)
 - [[next -->]](/spring-thymeleaf-2)
 
 ### Build the Project
